@@ -1,11 +1,16 @@
 _repo: Tales-of-an-Old-Sea-Port-A-General-Sketch-of-the-History-of-Bristol-Rhode-Island-Including-In__64419
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64419-h/images/cover.jpg
 creator:
   author:
     agent_name: Munro, Wilfred Harold
     gutenberg_agent_id: '52892'
     url: http://www.gutenberg.org/2009/agents/52892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64419#Tales-of-an-Old-Sea-Port-A-General-Sketch-of-the-History-of-Bristol-Rhode-Island-Including-In_
 gutenberg_issued: '2021-01-30'
 gutenberg_type: Text
 identifiers:
